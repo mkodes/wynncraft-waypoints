@@ -1,8 +1,30 @@
 [
   {
     "name": "Gudgeon",
-    "color": "#0066cc",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1340,
+      "y": 51,
+      "z": -1584
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#4a90e2",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -10505,
+      "y": 6,
+      "z": -2130
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -630,
@@ -12,8 +34,8 @@
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#0066cc",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -680,
@@ -23,8 +45,8 @@
   },
   {
     "name": "Gudgeon",
-    "color": "#0066cc",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -845,
@@ -34,8 +56,8 @@
   },
   {
     "name": "Gudgeon",
-    "color": "#0066cc",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -900,
@@ -45,8 +67,8 @@
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#00cc66",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -760,
@@ -56,8 +78,8 @@
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#0066cc",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -615,
@@ -67,8 +89,8 @@
   },
   {
     "name": "Gudgeon",
-    "color": "#6699cc",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -760,
@@ -78,41 +100,41 @@
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#6699cc",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
-      "x": -790,
+      "x": -780,
       "y": 34,
       "z": -2030
     }
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#6699cc",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -530,
       "y": 34,
-      "z": -2020
+      "z": -2080
     }
   },
   {
     "name": "Gudgeon",
-    "color": "#3366aa",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -390,
       "y": 33,
-      "z": -2100
+      "z": -2400
     }
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#3366aa",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -440,
@@ -122,8 +144,8 @@
   },
   {
     "name": "Gudgeon",
-    "color": "#009900",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -490,
@@ -133,8 +155,8 @@
   },
   {
     "name": "Gudgeon",
-    "color": "#228833",
-    "icon": "flag",
+    "color": "#4a90e2",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -260,
@@ -144,8 +166,8 @@
   },
   {
     "name": "Gudgeon/Trout/Salmon",
-    "color": "#cc3300",
-    "icon": "flag",
+    "color": "#ff6b6b",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -235,
@@ -154,20 +176,9 @@
     }
   },
   {
-    "name": "Gudgeon",
-    "color": "#228833",
-    "icon": "flag",
-    "visibility": "default",
-    "location": {
-      "x": -30,
-      "y": 59,
-      "z": -1785
-    }
-  },
-  {
     "name": "Gudgeon/Trout",
-    "color": "#00cccc",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": 100,
@@ -177,13 +188,1058 @@
   },
   {
     "name": "Gudgeon/Trout",
-    "color": "#664400",
-    "icon": "flag",
+    "color": "#7b68ee",
+    "icon": "fishing",
     "visibility": "default",
     "location": {
       "x": -1525,
       "y": 47,
       "z": -5265
+    }
+  },
+  {
+    "name": "Trout",
+    "color": "#32cd32",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 45,
+      "y": 59,
+      "z": -1555
+    }
+  },
+  {
+    "name": "Trout/Gudgeon",
+    "color": "#7b68ee",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 50,
+      "y": 58,
+      "z": -1585
+    }
+  },
+  {
+    "name": "Trout",
+    "color": "#32cd32",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 50,
+      "y": 58,
+      "z": -1495
+    }
+  },
+  {
+    "name": "Trout",
+    "color": "#32cd32",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 10,
+      "y": 59,
+      "z": -1655
+    }
+  },
+  {
+    "name": "Trout/Salmon",
+    "color": "#ff8c00",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -280,
+      "y": 65,
+      "z": -1690
+    }
+  },
+  {
+    "name": "Carp/Salmon",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1320,
+      "y": 71,
+      "z": -1845
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1075,
+      "y": 30,
+      "z": -1435
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 590,
+      "y": 35,
+      "z": -2145
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1395,
+      "y": 83,
+      "z": -2090
+    }
+  },
+  {
+    "name": "Carp/Salmon",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1290,
+      "y": 87,
+      "z": -2265
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1220,
+      "y": 94,
+      "z": -2200
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1185,
+      "y": 174,
+      "z": -2315
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1180,
+      "y": 159,
+      "z": -2285
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1185,
+      "y": 154,
+      "z": -2255
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1180,
+      "y": 146,
+      "z": -2230
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1165,
+      "y": 77,
+      "z": -2135
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1230,
+      "y": 77,
+      "z": -2015
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1235,
+      "y": 77,
+      "z": -1950
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1250,
+      "y": 76,
+      "z": -1895
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1370,
+      "y": 30,
+      "z": -1480
+    }
+  },
+  {
+    "name": "Carp",
+    "color": "#ffa500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1296,
+      "y": 30,
+      "z": -1350
+    }
+  },
+  {
+    "name": "Icefish",
+    "color": "#87ceeb",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 75,
+      "y": 66,
+      "z": -925
+    }
+  },
+  {
+    "name": "Icefish",
+    "color": "#87ceeb",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 895,
+      "y": 34,
+      "z": -3375
+    }
+  },
+  {
+    "name": "Icefish",
+    "color": "#87ceeb",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 60,
+      "y": 65,
+      "z": -990
+    }
+  },
+  {
+    "name": "Icefish",
+    "color": "#87ceeb",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 35,
+      "y": 67,
+      "z": -930
+    }
+  },
+  {
+    "name": "Icefish",
+    "color": "#87ceeb",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 83,
+      "y": 67,
+      "z": -959
+    }
+  },
+  {
+    "name": "Icefish",
+    "color": "#87ceeb",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 60,
+      "y": 67,
+      "z": -855
+    }
+  },
+  {
+    "name": "Piranha",
+    "color": "#ff4500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -645,
+      "y": 61,
+      "z": -650
+    }
+  },
+  {
+    "name": "Piranha",
+    "color": "#ff4500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -650,
+      "y": 54,
+      "z": -640
+    }
+  },
+  {
+    "name": "Piranha",
+    "color": "#ff4500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -770,
+      "y": 73,
+      "z": -745
+    }
+  },
+  {
+    "name": "Piranha",
+    "color": "#ff4500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -750,
+      "y": 54,
+      "z": -730
+    }
+  },
+  {
+    "name": "Piranha",
+    "color": "#ff4500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -635,
+      "y": 58,
+      "z": -920
+    }
+  },
+  {
+    "name": "Piranha",
+    "color": "#ff4500",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -665,
+      "y": 58,
+      "z": -875
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -610,
+      "y": 21,
+      "z": -505
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -825,
+      "y": 26,
+      "z": -400
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -800,
+      "y": 11,
+      "z": -400
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1300,
+      "y": 52,
+      "z": -5180
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -765,
+      "y": 44,
+      "z": -280
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -820,
+      "y": 18,
+      "z": -345
+    }
+  },
+  {
+    "name": "Koi/Piranha",
+    "color": "#ff8c00",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -770,
+      "y": 18,
+      "z": -345
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -905,
+      "y": 18,
+      "z": -450
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -905,
+      "y": 19,
+      "z": -520
+    }
+  },
+  {
+    "name": "Koi",
+    "color": "#ffd700",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -940,
+      "y": 18,
+      "z": -580
+    }
+  },
+  {
+    "name": "Koi/Piranha",
+    "color": "#ff8c00",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -925,
+      "y": 23,
+      "z": -650
+    }
+  },
+  {
+    "name": "Gylia Fish",
+    "color": "#9932cc",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -195,
+      "y": 27,
+      "z": -5340
+    }
+  },
+  {
+    "name": "Gylia Fish",
+    "color": "#9932cc",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -40,
+      "y": 27,
+      "z": -5235
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 90,
+      "y": 43,
+      "z": -5000
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1735,
+      "y": 34,
+      "z": -2065
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1830,
+      "y": 34,
+      "z": -2225
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1330,
+      "y": 34,
+      "z": -2745
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1410,
+      "y": 41,
+      "z": -2775
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1235,
+      "y": 36,
+      "z": -3080
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1160,
+      "y": 35,
+      "z": -3260
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1380,
+      "y": 35,
+      "z": -3410
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1575,
+      "y": 36,
+      "z": -3430
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1780,
+      "y": 34,
+      "z": -3425
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1890,
+      "y": 35,
+      "z": -3410
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -2030,
+      "y": 36,
+      "z": -3425
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1855,
+      "y": 93,
+      "z": -3230
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1905,
+      "y": 35,
+      "z": -2980
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1905,
+      "y": 37,
+      "z": -2865
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1935,
+      "y": 35,
+      "z": -2775
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1875,
+      "y": 34,
+      "z": -2685
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1795,
+      "y": 76,
+      "z": -2595
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1835,
+      "y": 34,
+      "z": -2560
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1785,
+      "y": 71,
+      "z": -2525
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1755,
+      "y": 63,
+      "z": -2405
+    }
+  },
+  {
+    "name": "Bass",
+    "color": "#006400",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": -1560,
+      "y": 36,
+      "z": -2215
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1455,
+      "y": 28,
+      "z": -5550
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1415,
+      "y": 146,
+      "z": -5570
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1250,
+      "y": 151,
+      "z": -5255
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1425,
+      "y": 138,
+      "z": -5085
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1495,
+      "y": 139,
+      "z": -5060
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1385,
+      "y": 144,
+      "z": -5395
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1435,
+      "y": 141,
+      "z": -5490
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1425,
+      "y": 139,
+      "z": -5545
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1500,
+      "y": 142,
+      "z": -5525
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1235,
+      "y": 69,
+      "z": -4985
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1350,
+      "y": 6,
+      "z": -5390
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1355,
+      "y": 10,
+      "z": -5580
+    }
+  },
+  {
+    "name": "Molten Eel",
+    "color": "#dc143c",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1540,
+      "y": 62,
+      "z": -5340
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1230,
+      "y": 48,
+      "z": -4355
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1200,
+      "y": 105,
+      "z": -4260
+    }
+  },
+  {
+    "name": "Dernic Fish",
+    "color": "#800080",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1060,
+      "y": 78,
+      "z": -920
+    }
+  },
+  {
+    "name": "Dernic Fish",
+    "color": "#800080",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 869,
+      "y": 94,
+      "z": -897
+    }
+  },
+  {
+    "name": "Dernic Fish",
+    "color": "#800080",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1455,
+      "y": 54,
+      "z": -4905
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1350,
+      "y": 121,
+      "z": -4730
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1200,
+      "y": 147,
+      "z": -4640
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1315,
+      "y": 141,
+      "z": -4605
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1380,
+      "y": 90,
+      "z": -4305
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1230,
+      "y": 48,
+      "z": -4355
+    }
+  },
+  {
+    "name": "Starfish",
+    "color": "#ff69b4",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1200,
+      "y": 105,
+      "z": -4260
+    }
+  },
+  {
+    "name": "Dernic Fish",
+    "color": "#800080",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 1060,
+      "y": 78,
+      "z": -920
+    }
+  },
+  {
+    "name": "Dernic Fish",
+    "color": "#800080",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 869,
+      "y": 94,
+      "z": -897
+    }
+  },
+  {
+    "name": "Dernic Fish",
+    "color": "#800080",
+    "icon": "fishing",
+    "visibility": "default",
+    "location": {
+      "x": 985,
+      "y": 126,
+      "z": -1090
     }
   }
 ]
