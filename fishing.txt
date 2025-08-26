@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Gudgeon",
+    "color": "#0066cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -630,
+      "y": 67,
+      "z": -1540
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#0066cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -680,
+      "y": 67,
+      "z": -1710
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#0066cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -845,
+      "y": 66,
+      "z": -1770
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#0066cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -900,
+      "y": 64,
+      "z": -1820
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#00cc66",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -760,
+      "y": 54,
+      "z": -1865
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#0066cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -615,
+      "y": 59,
+      "z": -1880
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#6699cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -760,
+      "y": 34,
+      "z": -2096
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#6699cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -790,
+      "y": 34,
+      "z": -2030
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#6699cc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -530,
+      "y": 34,
+      "z": -2020
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#3366aa",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -390,
+      "y": 33,
+      "z": -2100
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#3366aa",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -440,
+      "y": 67,
+      "z": -1790
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#009900",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -490,
+      "y": 67,
+      "z": -1545
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#228833",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -260,
+      "y": 72,
+      "z": -1680
+    }
+  },
+  {
+    "name": "Gudgeon/Trout/Salmon",
+    "color": "#cc3300",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -235,
+      "y": 76,
+      "z": -1870
+    }
+  },
+  {
+    "name": "Gudgeon",
+    "color": "#228833",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -30,
+      "y": 59,
+      "z": -1785
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#00cccc",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": 100,
+      "y": 36,
+      "z": -2265
+    }
+  },
+  {
+    "name": "Gudgeon/Trout",
+    "color": "#664400",
+    "icon": "flag",
+    "visibility": "default",
+    "location": {
+      "x": -1525,
+      "y": 47,
+      "z": -5265
+    }
+  }
+]
